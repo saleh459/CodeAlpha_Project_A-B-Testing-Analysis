@@ -16,6 +16,3 @@ Before rolling out the change, the team would be more comfortable testing it on 
 3. Visualising the results
 4. Testing the hypothesis
 5. Drawing conclusions
-
-
-Author: Akash M Dubey
